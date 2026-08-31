@@ -1,0 +1,33 @@
+{
+  "asOf": "2026-08-31T14:40:00-05:00",
+  "timezone": "America/Bogota",
+  "source": "seed",
+  "metrics": {
+    "p471084989": {
+      "activeUsers": 88,
+      "events": 359,
+      "range": "last_7_days",
+      "rangeLabel": "Last 7 days"
+    },
+    "p533622136": {
+      "activeUsers": 20,
+      "events": 333,
+      "range": "last_7_days",
+      "rangeLabel": "Last 7 days"
+    },
+    "p547337724": {
+      "activeUsers": 98,
+      "activeUsersChangePct": 237.9,
+      "events": 558,
+      "eventsChangePct": 101.4,
+      "range": "last_7_days",
+      "rangeLabel": "Last 7 days"
+    },
+    "p469458220": {
+      "activeUsers": 768,
+      "events": 3100,
+      "range": "last_14_days",
+      "rangeLabel": "Last 14 days"
+    }
+  }
+}

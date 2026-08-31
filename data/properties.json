@@ -1,0 +1,52 @@
+{
+  "title": "Sites",
+  "subtitle": "Last 7 days",
+  "primary": [
+    {
+      "id": "p471084989",
+      "name": "RebelFi.io",
+      "domain": "rebelfi.io",
+      "account": "RebelFi",
+      "accountId": "a306856472",
+      "propertyName": "main site",
+      "propertyId": "p471084989"
+    },
+    {
+      "id": "p533622136",
+      "name": "tokenrip.com",
+      "domain": "tokenrip.com",
+      "account": "RebelFi",
+      "accountId": "a306856472",
+      "propertyName": "tokenrip.com",
+      "propertyId": "p533622136"
+    },
+    {
+      "id": "p547337724",
+      "name": "quintel.ai",
+      "domain": "quintel.ai",
+      "account": "Quintel",
+      "accountId": "a402513562",
+      "propertyName": "quintel.ai",
+      "propertyId": "p547337724"
+    }
+  ],
+  "optional": [
+    {
+      "id": "p469458220",
+      "name": "RebelFi blog",
+      "account": "RebelFi",
+      "accountId": "a306856472",
+      "propertyName": "blog",
+      "propertyId": "p469458220"
+    },
+    {
+      "id": "p495472398",
+      "name": "RebelFi hermes",
+      "account": "RebelFi",
+      "accountId": "a306856472",
+      "propertyName": "hermes",
+      "propertyId": "p495472398",
+      "measurementId": "G-492X21DDJW"
+    }
+  ]
+}

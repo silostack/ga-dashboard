@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="color-scheme" content="dark">
+  <title>Sites</title>
+  <meta name="description" content="Traffic snapshot for RebelFi.io, tokenrip.com, and quintel.ai">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230c0d10'/%3E%3Crect x='6' y='6' width='9' height='9' rx='1.5' fill='%23efece4'/%3E%3Crect x='17' y='6' width='9' height='9' rx='1.5' fill='%236ecf9b'/%3E%3Crect x='6' y='17' width='9' height='9' rx='1.5' fill='%236e6a62'/%3E%3Crect x='17' y='17' width='9' height='9' rx='1.5' fill='%23a8a399'/%3E%3C/svg%3E">
+</head>
+<body>
+  <div class="page">
+    <header class="top">
+      <div class="top-left">
+        <h1>Sites</h1>
+        <p class="subtitle" id="subtitle">Last 7 days</p>
+      </div>
+      <p class="asof" id="asof" aria-live="polite"></p>
+    </header>
+
+    <main>
+      <section aria-label="Primary properties">
+        <div class="grid grid-primary" id="primary"></div>
+      </section>
+
+      <section class="optional" aria-labelledby="optional-heading">
+        <h2 id="optional-heading">Optional</h2>
+        <div class="grid grid-optional" id="optional"></div>
+      </section>
+    </main>
+  </div>
+
+  <noscript>
+    <p class="noscript">This dashboard needs JavaScript to read the local JSON files.</p>
+  </noscript>
+
+  <script type="application/json" id="embedded-properties">
+{
+  "title": "Sites",
+  "subtitle": "Last 7 days",
+  "primary": [
+    {
+      "id": "p471084989",
+      "name": "RebelFi.io",
+      "domain": "rebelfi.io",
+      "account": "RebelFi",
+      "accountId": "a306856472",
+      "propertyName": "main site",
+      "propertyId": "p471084989"
+    },
+    {
+      "id": "p533622136",
+      "name": "tokenrip.com",
+      "domain": "tokenrip.com",
+      "account": "RebelFi",
+      "accountId": "a306856472",
+      "propertyName": "tokenrip.com",
+      "propertyId": "p533622136"
+    },
+    {
+      "id": "p547337724",
+      "name": "quintel.ai",
+      "domain": "quintel.ai",
+      "account": "Quintel",
+      "accountId": "a402513562",
+      "propertyName": "quintel.ai",
+      "propertyId": "p547337724"
+    }
+  ],
+  "optional": [
+    {
+      "id": "p469458220",
+      "name": "RebelFi blog",
+      "account": "RebelFi",
+      "accountId": "a306856472",
+      "propertyName": "blog",
+      "propertyId": "p469458220"
+    },
+    {
+      "id": "p495472398",
+      "name": "RebelFi hermes",
+      "account": "RebelFi",
+      "accountId": "a306856472",
+      "propertyName": "hermes",
+      "propertyId": "p495472398",
+      "measurementId": "G-492X21DDJW"
+    }
+  ]
+}
+  </script>
+  <script type="application/json" id="embedded-snapshot">
+{
+  "asOf": "2026-08-31T14:40:00-05:00",
+  "timezone": "America/Bogota",
+  "source": "seed",
+  "metrics": {
+    "p471084989": {
+      "activeUsers": 88,
+      "events": 359,
+      "range": "last_7_days",
+      "rangeLabel": "Last 7 days"
+    },
+    "p533622136": {
+      "activeUsers": 20,
+      "events": 333,
+      "range": "last_7_days",
+      "rangeLabel": "Last 7 days"
+    },
+    "p547337724": {
+      "activeUsers": 98,
+      "activeUsersChangePct": 237.9,
+      "events": 558,
+      "eventsChangePct": 101.4,
+      "range": "last_7_days",
+      "rangeLabel": "Last 7 days"
+    },
+    "p469458220": {
+      "activeUsers": 768,
+      "events": 3100,
+      "range": "last_14_days",
+      "rangeLabel": "Last 14 days"
+    }
+  }
+}
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
