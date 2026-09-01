@@ -1,37 +1,37 @@
 {
-  "asOf": "2026-08-31T14:53:00-05:00",
+  "asOf": "2026-09-01T14:56:00-05:00",
   "timezone": "America/Bogota",
   "source": "ga_home",
   "metrics": {
     "p471084989": {
-      "activeUsers": 88,
-      "activeUsersChangePct": -12.9,
-      "events": 359,
-      "eventsChangePct": -48.3,
+      "activeUsers": 96,
+      "activeUsersChangePct": 4.3,
+      "events": 395,
+      "eventsChangePct": -35.8,
       "range": "last_7_days",
       "rangeLabel": "Last 7 days"
     },
     "p533622136": {
-      "activeUsers": 20,
-      "activeUsersChangePct": -20.0,
-      "events": 333,
-      "eventsChangePct": -24.7,
+      "activeUsers": 19,
+      "activeUsersChangePct": -24.0,
+      "events": 299,
+      "eventsChangePct": -39.5,
       "range": "last_7_days",
       "rangeLabel": "Last 7 days"
     },
     "p547337724": {
-      "activeUsers": 98,
-      "activeUsersChangePct": 237.9,
-      "events": 558,
-      "eventsChangePct": 101.4,
+      "activeUsers": 107,
+      "activeUsersChangePct": 224.2,
+      "events": 521,
+      "eventsChangePct": 47.2,
       "range": "last_7_days",
       "rangeLabel": "Last 7 days"
     },
     "p469458220": {
-      "activeUsers": 768,
-      "activeUsersChangePct": 4.6,
-      "events": 3100,
-      "eventsChangePct": 6.4,
+      "activeUsers": 710,
+      "activeUsersChangePct": -8.3,
+      "events": 2900,
+      "eventsChangePct": -4.4,
       "range": "last_14_days",
       "rangeLabel": "Last 14 days"
     }
