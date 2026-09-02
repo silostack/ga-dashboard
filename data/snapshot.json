@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-01T17:18:00-05:00",
+  "asOf": "2026-09-01T19:27:00-05:00",
   "timezone": "America/Bogota",
   "source": "ga_home",
   "metrics": {
@@ -22,16 +22,16 @@
     "p547337724": {
       "activeUsers": 107,
       "activeUsersChangePct": 224.2,
-      "events": 521,
-      "eventsChangePct": 47.2,
+      "events": 529,
+      "eventsChangePct": 49.4,
       "range": "last_7_days",
       "rangeLabel": "Last 7 days"
     },
     "p469458220": {
-      "activeUsers": 710,
-      "activeUsersChangePct": -8.3,
+      "activeUsers": 712,
+      "activeUsersChangePct": -8.0,
       "events": 2900,
-      "eventsChangePct": -4.4,
+      "eventsChangePct": -4.1,
       "range": "last_14_days",
       "rangeLabel": "Last 14 days"
     }
