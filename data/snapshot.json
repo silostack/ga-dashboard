@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-02T15:08:00-05:00",
+  "asOf": "2026-09-02T17:09:00-05:00",
   "timezone": "America/Bogota",
   "source": "ga_home",
   "metrics": {
@@ -12,26 +12,26 @@
       "rangeLabel": "Last 7 days"
     },
     "p533622136": {
-      "activeUsers": 12,
-      "activeUsersChangePct": -61.3,
-      "events": 267,
-      "eventsChangePct": -49.0,
+      "activeUsers": 13,
+      "activeUsersChangePct": -58.1,
+      "events": 273,
+      "eventsChangePct": -47.9,
       "range": "last_7_days",
       "rangeLabel": "Last 7 days"
     },
     "p547337724": {
-      "activeUsers": 113,
-      "activeUsersChangePct": 189.7,
-      "events": 545,
-      "eventsChangePct": 34.6,
+      "activeUsers": 115,
+      "activeUsersChangePct": 194.9,
+      "events": 561,
+      "eventsChangePct": 38.5,
       "range": "last_7_days",
       "rangeLabel": "Last 7 days"
     },
     "p469458220": {
-      "activeUsers": 699,
-      "activeUsersChangePct": -11.5,
-      "events": 2800,
-      "eventsChangePct": -11.2,
+      "activeUsers": 750,
+      "activeUsersChangePct": -5.1,
+      "events": 3100,
+      "eventsChangePct": -4.6,
       "range": "last_14_days",
       "rangeLabel": "Last 14 days"
     }
