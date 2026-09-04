@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-04T13:38:16-05:00",
+  "asOf": "2026-09-04T15:08:12-05:00",
   "timezone": "America/Bogota",
   "source": "ga_home",
   "metrics": {
@@ -22,8 +22,8 @@
     "p547337724": {
       "activeUsers": 117,
       "activeUsersChangePct": 178.6,
-      "events": 569,
-      "eventsChangePct": 52.5,
+      "events": 573,
+      "eventsChangePct": 53.6,
       "range": "last_7_days",
       "rangeLabel": "Last 7 days"
     },
